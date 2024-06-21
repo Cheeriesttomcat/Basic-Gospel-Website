@@ -1,0 +1,85 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('images/pexels-summerstock-325117.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1592px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 840px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 840px;
+  margin: 0 150px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 847px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 582px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    background-position: 40.53% 23.23%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 1697px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 432px;
+    margin-top: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+    margin-top: 9px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1129px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 59.96% 15.57%;
+    background-size: auto 135%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 2286px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 21px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+}
